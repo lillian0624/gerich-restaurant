@@ -16,7 +16,7 @@
   background-attachment: fixed;
 }
 
-np .app__wrapper {
+.app__wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
